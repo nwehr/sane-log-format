@@ -1,7 +1,7 @@
 ## Install ##
 
 ```
-$ go get gitlab.com/nwehr/sane-time-format
+$ go get github.com/nwehr/sane-time-format
 ```
 
 ## Example Usage ##
@@ -10,7 +10,7 @@ $ go get gitlab.com/nwehr/sane-time-format
 package main
 
 import (
-	"gitlab.com/nwehr/sane-time-format"
+	"github.com/nwehr/sane-time-format"
 	"time"
 )
 
