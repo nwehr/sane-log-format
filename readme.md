@@ -25,7 +25,7 @@ func main() {
 The go reference time is Mon Jan 2 15:04:05 MST 2006.
 
 | Character | Description | Example |
-| --------- | ----------- | ------- |
+| :-------- | :---------- | :------ |
 | y | Two-digit year | 06 |
 | Y | Four-digit year | 2006 |
 | n | Numeric month | 1 |
