@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/nwehr/sane-time-format.svg?branch=master)](https://travis-ci.org/nwehr/sane-time-format)
+[![Coverage Status](https://coveralls.io/repos/github/nwehr/sane-time-format/badge.svg?branch=master)](https://coveralls.io/github/nwehr/sane-time-format?branch=master)
 
 ## Install ##
 
