@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nwehr/sane-time-format.svg?branch=master)](https://travis-ci.org/nwehr/sane-time-format)
+
 ## Install ##
 
 ```
