@@ -4,7 +4,7 @@
 ## Install ##
 
 ```
-$ go get github.com/nwehr/sane-time-format
+$ go get github.com/nwehr/sane.go
 ```
 
 ## Example Usage ##
@@ -13,7 +13,7 @@ $ go get github.com/nwehr/sane-time-format
 package main
 
 import (
-	"github.com/nwehr/sane-time-format"
+	"github.com/nwehr/sane.go"
 	"time"
 )
 
